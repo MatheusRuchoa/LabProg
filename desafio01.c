@@ -1,6 +1,17 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+
+//•Faça um programa que solicite ao usuário para digitar valores numéricos inteiros positivos. Encerre a entrada de dados quando for digitado a palavra S para sair.
+//–Calcule
+//a média dos números positivos digitados.
+//–Informe
+//quantos valores foram digitados.
+//–Informe
+//qual foi o maior valor.
+//–Informe
+//qual foi o menor valor.
+
 int main(){
 
     int num, maior, menor, cont=0;
