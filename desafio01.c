@@ -40,8 +40,4 @@ int main(){
     printf("====================================\n");
 
     return 0;
-}
-
-//if(scanf("%c", &sair)==1){
-//            if(sair=='s'){
-//               break;}
+}
