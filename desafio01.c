@@ -14,7 +14,7 @@
 
 int main(){
 
-    int num, maior, menor, cont=0;
+    int num, maior=0, menor=0, cont=0;
     char entrada[20];
     float media=0;
     int k=0;
@@ -40,4 +40,4 @@ int main(){
     printf("====================================\n");
 
     return 0;
-}
+}
